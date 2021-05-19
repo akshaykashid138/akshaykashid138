@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshaykashid138
+- 👋 Hi, I’m akshay kashid
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
